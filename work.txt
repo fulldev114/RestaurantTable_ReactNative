@@ -1,0 +1,33 @@
+https://www.dropbox.com/s/vyy7wmp2fr95mvi/EatablesV4.zip?dl=0
+https://www.dropbox.com/s/shq6hwq625io5o0/Eatables%20V4%20PSD.zip?dl=0
+https://invis.io/VNAO8J1UE
+
+curl https://gist.githubusercontent.com/chih/3aa8b3bbd490137a31f0b864eff1532e/raw/f1c683deeb5a8c98e32550c5b4ef4eacc61966a1/showDoneButton.patch | git apply
+
+https://github.com/smartdemocracy/react-native-local-mongodb
+
+https://www.npmjs.com/package/react-localization
+
+
+AIzaSyAkPi_1CZn6ioO8wtI0HJtCgYJTU0DRUfY
+
+{/*<PercentageCircle radius={35} innerColor={'skyblue'} bgcolor={'white'} textStyle={{fontSize: 20, color: 'white',fontWeight:'600'}} percent={this.state.percent} borderWidth={7} color={"#00FF00"}></PercentageCircle>*/}
+
+AWS
+djoli.djolilo@gmail.com
+tj2W!5_+ceHpUBvX=aCrWXGJfsMD?HDf&sC2QGxkcY6mrU*B
+
+https://developer.orange.com/
+djoli.djolilo@gmail.com
+OraA3KR!=z--7A*4Rt@!MQ7UPVsJG*s?WC=7
+ssh -i "mykeypair.pem" ec2-user@ec2-35-157-241-224.eu-central-1.compute.amazonaws.com
+
+35.158.11.48
+
+https://www.humongous.io/app/58ca2fcc67d027000acc88bc/viewer
+
+db.createUser({
+    user: 'jigar',
+    pwd: 'jigar',
+    roles: [{ role: 'readWrite', db:'eatables'}]
+})

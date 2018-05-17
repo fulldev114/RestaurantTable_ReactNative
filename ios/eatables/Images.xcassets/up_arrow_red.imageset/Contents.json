@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "up_arrow_red.PNG",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "up_arrow_red-1.PNG",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "up_arrow_red-2.PNG",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
